@@ -99,7 +99,7 @@ const pizzas = [{
   "prices": [
     {
       "small": 250,
-      "medium": 380
+      "medium": 380,
       "large": 500
     }
   ],
