@@ -1,7 +1,7 @@
 import React from 'react'
 
 /**
- * This function responsible to receive product and format your diplay 
+ * This function responsible to receive product and format your display 
  */
 export default function Product({product}) {
     return(
@@ -26,7 +26,6 @@ export default function Product({product}) {
                     </select>
                 </div>
             </div>
-
         </div>
     )
 }
